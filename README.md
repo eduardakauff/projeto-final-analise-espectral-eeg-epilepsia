@@ -15,11 +15,11 @@ Aplicar a Transformada Rápida de Fourier (FFT) e os algoritmos de aprendizado d
 
 Estrutura do repositório
 
-documentacao/: documentos, referências científicas e metadados da base de dados.
+-documentacao/: documentos, referências científicas e metadados da base de dados.
 
-notebooks/: notebooks de exploração, processamento e análise dos sinais.
+-notebooks/: notebooks de exploração, processamento e análise dos sinais.
 
-resultados/: gráficos, tabelas e resultados dos experimentos.
+-resultados/: gráficos, tabelas e resultados dos experimentos.
 
 Base de dados
 
