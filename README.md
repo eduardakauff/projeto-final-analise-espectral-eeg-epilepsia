@@ -12,3 +12,15 @@ Análise espectral de sinais eletroencefalográficos para classificação de per
 Objetivo:
 
 Aplicar a Transformada Rápida de Fourier (FFT) e os algoritmos de aprendizado de máquina SVM e Random Forest aos sinais EEG da base pública (a definir) para identificar e classificar períodos ictais e interictais, avaliando o desempenho por meio das métricas (a definir) em relação aos rótulos de referência definidos a partir das anotações dos horários das crises epilépticas.
+
+Estrutura do repositório
+
+documentacao/: documentos, referências científicas e metadados da base de dados.
+
+notebooks/: notebooks de exploração, processamento e análise dos sinais.
+
+resultados/: gráficos, tabelas e resultados dos experimentos.
+
+Base de dados
+
+A base de dados pública utilizada será definida durante o desenvolvimento do projeto.
