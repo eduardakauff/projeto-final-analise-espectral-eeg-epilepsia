@@ -4,5 +4,7 @@ Esta pasta reúne documentos, referências científicas e informações técnica
 Serão armazenados:
 
 Referências dos artigos científicos utilizados;
+
 Informações e metadados da base de dados escolhida;
+
 Documentação dos métodos de processamento e classificação.
