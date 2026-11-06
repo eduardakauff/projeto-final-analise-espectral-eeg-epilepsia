@@ -1,4 +1,4 @@
-# projeto-final-analise-espectral-eeg-epilepsia
+# Projeto final
 
 Problema escolhido:
 
